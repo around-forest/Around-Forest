@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://www.instagram.com/around.forest/" target="_blank"><img src="https://img.shields.io/badge/around.forest-E4405F?style=plastic&logo=instagram&logoColor=FFFFFF"/></a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=around-forest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
