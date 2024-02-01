@@ -25,7 +25,7 @@
   
   </br></br>
   
-  <h3>Cards</h3></br>
+  <h3>Badges</h3></br>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=around-forest&theme=onedark&no-bg=true&no-frame=true&rank=-?&column=-1"/></a></br>
   <a href="https://solved.ac/profile/around_forest"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=around_forest"></a>
   <!-- Baekjoon badge
