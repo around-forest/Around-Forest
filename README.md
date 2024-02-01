@@ -26,7 +26,7 @@
   </br></br>
   
   <strong>GitHub</strong></br></br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=around-forest&theme=onedark&no-bg=true&no-frame=true&column=4"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=around-forest&theme=onedark&no-bg=true&no-frame=true&column=8"/></a>
   <!-- Baekjoon badge
   <a href="https://solved.ac/around_forest" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=around_forest"/></a>
   <a href="https://solved.ac/profile/around_forest"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=around_forest"></a>
