@@ -10,9 +10,10 @@
   </br></br>
   
   <h3>Profile</h3></br>
-  <b>Soongsil University, School of Computer Science & Engineering</b></br>
-  United Nations Interim Force in Lebanon, ROKBATT Peacekeeper</br>
-  Maragon Mooikloof Private School, South Africa</br>
+  2024 숭실대학교 스타트업팀 '쿼카온어트립 - Trav_Wear' Developer</br>
+  <b>2021 Soongsil University, School of Computer Science & Engineering</b></br>
+  2018 United Nations Interim Force in Lebanon, ROKBATT Peacekeeper</br>
+  2012 Maragon Mooikloof Private School, South Africa</br>
 
   </br></br>
   
@@ -22,8 +23,6 @@
   2024 대학혁신지원사업 숭실대학교 Pre-스타트업팀 창업동아리 최종선정 (2등)</br>
   2024 벤처중소기업부 여성창업경진대회 이사장상 수상</br>
   2024 서울 캠퍼스타운 숭실대학교 창업경진대회 최종선정 (2등)</br>
-  2024 교육부 주최 학생창업유망팀 300 성장트랙 서류합격, 본선진출</br>
-  2024 숭실대학교 스타트업팀 '쿼카온어트립 - Trav_Wear' Developer join</br>
 
   </br></br>
 
