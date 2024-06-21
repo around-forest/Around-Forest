@@ -15,6 +15,16 @@
   Maragon Mooikloof Private School, South Africa</br>
 
   </br></br>
+  
+  <h3>Achievement</h3></br>
+  <b>2024 네이버 부스트캠프 9기 베이직 입과</b></br>
+  2024 문화체육관광부 한국관광공사 관광벤처공모전 최종합격 - 관광벤처기업 자격보유</br>
+  2024 대학혁신지원사업 숭실대학교 Pre-스타트업팀 창업동아리 최종선정 (2등)</br>
+  2024 벤처중소기업부 여성창업경진대회 이사장상 수상</br>
+  2024 서울 캠퍼스타운 숭실대학교 창업경진대회 최종선정 (2등)</br>
+  2024 교육부 주최 학생창업유망팀 300 성장트랙 서류합격, 본선진출</br>
+
+  </br></br>
 
   <h3>Studying</h3></br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"/></a>
