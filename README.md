@@ -27,6 +27,12 @@
 
   </br></br>
 
+  <h3>Certificates</h3></br>
+  <b>2024 TOPCIT Level 3 (493)</b></br>
+  2024 TOEIC 875</br>
+  
+  </br></br>
+
   <h3>Studying</h3></br>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=FFFFFF"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF"/></a>
