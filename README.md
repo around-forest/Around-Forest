@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF"/></a>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=FFFFFF"/></a>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=FFFFFF"/></a>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=FFFFFF"/></a>
   
   </br></br>
   
