@@ -19,7 +19,7 @@
   </br></br>
   
   <h3>Achievements</h3></br>
-  <b>2024 네이버 BoostCamp 9기 iOS Basic Course 수료</b></br>
+  <b>2024 네이버 BoostCamp iOS Basic Course 9기 수료</b></br>
   2024 문화체육관광부 한국관광공사 관광벤처공모전 최종합격 - 관광벤처기업 자격보유</br>
   2024 대학혁신지원사업 숭실대학교 Pre-스타트업팀 창업동아리 최종선정 (2등)</br>
   2024 벤처중소기업부 여성창업경진대회 이사장상 수상</br>
