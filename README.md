@@ -19,7 +19,7 @@
   </br></br>
   
   <h3>Achievements</h3></br>
-  <b>2024 네이버 부스트캠프 웹・모바일 9기 iOS Membership Course 입과</b></br>
+  <b>2024 네이버 부스트캠프 웹・모바일 9기 iOS Membership Course 입과</b></br>
   2024 네이버 부스트캠프 웹・모바일 9기 iOS Challenge Course 수료</br>
   2024 네이버 부스트캠프 웹・모바일 9기 iOS Basic Course 수료</br>
   2024 문화체육관광부 한국관광공사 관광벤처공모전 최종합격 - 관광벤처기업 자격보유</br>
